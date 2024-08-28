@@ -11,7 +11,7 @@ class Config(object):
     SUPPORT_CHAT = "TALK_2_REL4TE"
     UPDATE_CHAT = "TALK_2_REL4TE"
     BOT_USERNAME = "Rio_songbot"
-    CHARA_CHANNEL_ID = "-1002133191051"
+    CHARA_CHANNEL_ID = "-1002077799136"
     api_id = 25128421
     api_hash = "933fd8b53dabcf5c814c47a4f6911623"
 
